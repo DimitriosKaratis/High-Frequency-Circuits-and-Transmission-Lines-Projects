@@ -55,10 +55,9 @@ The work was developed as part of the *Frequency Systems and Transmission Line T
 
 ---
 
-## 🔧 Tools & Methods
+## ⚙️ Tools & Implementation
 - **MATLAB** and **Python** for numerical analysis, simulation, and optimization.  
 - **Smith Chart techniques** for impedance and matching calculations.  
 - **Optimization algorithms** (JAYA, genetic algorithms) for broadband stub design.  
-
----
-
+- Detailed comments and explanations are provided in each `.m` file.  
+- Reports are written in Greek, while the README provides an English overview.  
